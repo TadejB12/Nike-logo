@@ -58,7 +58,11 @@
   font-size: 1.11111rem;
   margin: 41px 18px 57px;
 }
-
+.png{
+ height: 100px;
+  width: 100px;
+  background: url(../images/nike.png) no-repeat ;
+}
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 778px;
