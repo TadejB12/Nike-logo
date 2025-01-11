@@ -41,7 +41,7 @@ var n,factory;n=void 0!==e?e:"undefined"!=typeof window?window:this,factory=func
 function vizitka(){
   swal({
             title: 'Avtor:',
-            text: 'Tadej Bensa',
+            text: 'Tadej Bensa 4.RB',
             icon: 'info',
             button: {
                 text: 'OK',
